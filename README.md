@@ -12,3 +12,7 @@ Connection interval
 BLE Sniffer from Nordic
 -----
 - https://www.nordicsemi.com/eng/Products/Bluetooth-low-energy/nRF51822-Evaluation-Kit
+
+Sect connect hop_inc (not possible)
+-----
+- https://devzone.nordicsemi.com/question/153513/is-it-possible-to-set-hopincrement-for-nrf52832/
